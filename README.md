@@ -2,7 +2,7 @@
 ### A short quiz offers to guess who painted the famous artworks
 ## Link - [Project on Github pages](https://tatianamoseeva.github.io/Artquiz/)
 
-![screenshot](img/screenshot.png "Question")
+<img src="https://github.com/TatianaMoseeva/Artquiz/blob/main/quiz.gif" width="400"/>
 
 ## Features 
 
